@@ -24,7 +24,9 @@ In the future, I have a plan to develop myself such as creating mobile applicati
 <hr>
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About me
-
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=izephanthakarn&label=Profile%20views&color=0e75b6&style=flat" alt="izephanthakarn" /> 
+</p>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px height = 280px>
 
 - 🌱 I am a `Junior` at [Faculty of Electrical Engineering](https://ee-eng.su.ac.th/) at [Silpakorn University](https://www.su.ac.th/).
@@ -109,8 +111,9 @@ In the future, I have a plan to develop myself such as creating mobile applicati
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=izephanthakarn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=izephanthakarn&label=Profile%20views&color=0e75b6&style=flat" alt="izephanthakarn" /> 
+
 <hr>
+
 <p align="right">
 <a href="https://www.buymeacoffee.com/izephanthakarn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </p>
