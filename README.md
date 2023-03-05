@@ -98,11 +98,15 @@ In the future, I have a plan to develop myself such as creating mobile applicati
 [![image](https://img.shields.io/badge/Linkin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phanthakarn-khumphai-686299200/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izephanthakarn@gmail.com)
 </p>
-### Badges
 
-<b>My GitHub Stats</b>
+### ⚙️ Github Stats
 
-<a href="http://www.github.com/izephanthakarn"><img src="https://github-readme-stats.vercel.app/api?username=izephanthakarn&show_icons=true&hide=stars,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="izephanthakarn's GitHub stats" /></a>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=izephanthakarn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=izephanthakarn&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <a href="https://github.com/izephanthakarn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izephanthakarn&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
