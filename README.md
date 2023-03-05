@@ -1,5 +1,6 @@
-# Hi, I'm Monica 👋🏾 👩🏾‍💻
-============================================================================================================================================
+# Hi, I'm Phanthakarn Khumphai
+
+<img src="https://fastly.picsum.photos/id/3/1200/400.jpg?hmac=XWlEqxg-xZ15ftFQOnnydlMUa40_9B1Uot9BSnGfHu4" alt="My Banner">
 
 Student and Developer
 ---------------------
