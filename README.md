@@ -111,7 +111,5 @@ In the future, I have a plan to develop myself such as creating mobile applicati
 </p>
 
 <hr>
-
-### Support Me
-
+<img src="https://komarev.com/ghpvc/?username=izephanthakarn&label=Profile%20views&color=0e75b6&style=flat" alt="izephanthakarn" /> 
 <a href="https://www.buymeacoffee.com/izephanthakarn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
