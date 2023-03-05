@@ -1,4 +1,4 @@
-# Hi, I'm Phanthakarn Khumphai
+# Hi, I'm Phanthakarn Khumphai 🦍✨
 
 <img src="https://fastly.picsum.photos/id/3/1200/400.jpg?hmac=XWlEqxg-xZ15ftFQOnnydlMUa40_9B1Uot9BSnGfHu4" alt="My Banner">
 I am a developer with a passion for creating websites, web applications and applications to improve my skills. Some of the technologies that I like to use are NuxtJS, VueJS ,Golang API PostgreSQL and Google Cloud Platform. I am currently studying at Silpakorn University and accepting a part-time job building websites. And I have created a website <a href="https://www.izephanthakarn.dev">Phanthakarn's Portfolio</a> for my portfolio.
