@@ -5,6 +5,10 @@ I am a developer with a passion for creating websites, web applications and appl
 
 I am currently studying at Silpakorn University and accepting a part-time job building websites.And I have created a website <a href="https://www.izephanthakarn.dev">Phanthakarn's Portfolio</a> for my portfolio, showcase my profile, my skills, projects, personal information and my contact.
 
+
+In the future, I have a plan to develop myself such as creating mobile applications, blockchain development, writing bots to reduce redundant work. And developing their own applications for convenience in everyday life, such as recording income and expenses Health tracking and private social media to use with close ones.
+
+
 ### Skills
 
 
