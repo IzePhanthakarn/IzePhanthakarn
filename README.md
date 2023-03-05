@@ -24,7 +24,7 @@ In the future, I have a plan to develop myself such as creating mobile applicati
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
 - 🌱 I am a `Junior` at [Faculty of Electrical Engineering](https://ee-eng.su.ac.th/) at [Silpakorn University](https://www.su.ac.th/).
 - 🔭 I’m currently working on `my mini projects`
 - 💬 Ask me about `Front-end`
