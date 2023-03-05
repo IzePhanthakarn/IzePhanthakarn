@@ -107,7 +107,7 @@ In the future, I have a plan to develop myself such as creating mobile applicati
 ### ⚙️ Github Stats
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/IzePhanthakarn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=izephanthakarn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=izephanthakarn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
