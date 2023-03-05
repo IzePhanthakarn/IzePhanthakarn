@@ -1,4 +1,3 @@
-
 # 👋🏻 Hi, I'm Phanthakarn Khumphai 🦈✨
 
 <img src="https://fastly.picsum.photos/id/3/1200/400.jpg?hmac=XWlEqxg-xZ15ftFQOnnydlMUa40_9B1Uot9BSnGfHu4" alt="My Banner">
@@ -21,6 +20,7 @@ In the future, I have a plan to develop myself such as creating mobile applicati
   <img src="https://img.shields.io/badge/Lives-Thailand-purple" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Thai-brown" />
 </p>
+
 <hr>
 
 ### Skills
