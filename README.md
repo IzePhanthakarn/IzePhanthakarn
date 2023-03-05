@@ -1,3 +1,4 @@
+
 # 👋🏻 Hi, I'm Phanthakarn Khumphai 🦈✨
 
 <img src="https://fastly.picsum.photos/id/3/1200/400.jpg?hmac=XWlEqxg-xZ15ftFQOnnydlMUa40_9B1Uot9BSnGfHu4" alt="My Banner">
@@ -5,7 +6,23 @@ I am a developer with a passion for creating websites, web applications and appl
 
 I am currently studying at Silpakorn University and accepting a part-time job building websites.And I have created a website <a href="https://www.izephanthakarn.dev">Phanthakarn's Portfolio</a> for my portfolio, showcase my profile, my skills, projects, personal information and my contact.
 
+3+ years of experience as a software developer. Fast learner and eager to explore new technologies. Love developing beautiful and useful websites. Teamwork and Clean Code always question the status quo and want to improve.
+
 In the future, I have a plan to develop myself such as creating mobile applications, blockchain development, writing bots to reduce redundant work. And developing their own applications for convenience in everyday life, such as recording income and expenses Health tracking and private social media to use with close ones.
+
+> Technology advances every day. So I must never stop learning.
+<p>
+  <a href="https://www.facebook.com/ize.phanthakarn.5"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
+  <a href="https://www.instagram.com/izeimize/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram"></a>
+  <a href="https://github.com/IzePhanthakarn"><img src="https://img.shields.io/badge/Github--_.svg?style=social&logo=Github" alt="Github"></a>
+<img src="https://img.shields.io/badge/Age-21-crimson" />
+  <img src="https://img.shields.io/badge/Frontend-NuxtJS-brightgreen" />
+  <img src="https://img.shields.io/badge/Backend-Golang-blue" />
+  <img src="https://img.shields.io/badge/Lives-Thailand-purple" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Thai-brown" />
+</p>
+
+<hr>
 
 ### Skills
 
