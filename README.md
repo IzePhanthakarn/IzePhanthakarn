@@ -110,7 +110,7 @@ In the future, I have a plan to develop myself such as creating mobile applicati
 </a>
 </p>
 
-<a href="https://github.com/izephanthakarn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izephanthakarn&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<hr>
 
 ### Support Me
 
