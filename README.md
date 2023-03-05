@@ -35,8 +35,8 @@ In the future, I have a plan to develop myself such as creating mobile applicati
 - 💬 Ask me about `Front-end`
 - :computer: I love using Software as a solution for every `Problem`.
 - :mortar_board: I’m  always `learning new things`.
-- :orange_book: This is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://www.izephanthakarn.dev).
+- :orange_book: Know about my experiences at [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :boom: 👨‍💻 All of my projects are available at [MY WEBSITE](https://www.izephanthakarn.dev).
 - ⚡ Fun fact: I never thought I would become a web developer!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
