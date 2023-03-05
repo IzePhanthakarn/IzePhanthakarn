@@ -99,6 +99,8 @@ In the future, I have a plan to develop myself such as creating mobile applicati
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izephanthakarn@gmail.com)
 </p>
 
+<hr>
+
 ### ⚙️ Github Stats
 
 <p align="center">
