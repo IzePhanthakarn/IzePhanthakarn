@@ -1,4 +1,4 @@
-# 👋🏻 Hi, I'm Phanthakarn Khumphai 🦈✨
+#👋🏻 Hi, I'm Phanthakarn Khumphai 🦈✨
 
 <img src="https://fastly.picsum.photos/id/3/1200/400.jpg?hmac=XWlEqxg-xZ15ftFQOnnydlMUa40_9B1Uot9BSnGfHu4" alt="My Banner">
 I am a developer with a passion for creating websites, web applications and applications to improve my skills. Some of the technologies that I like to use are <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="20" height="20" alt="Nuxtjs" /></a> NuxtJS, <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="20" height="20" alt="Vue" /></a> VueJS , <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="20" height="20" alt="Go" /></a> Golang API, <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="20" height="20" alt="PostgreSQL" /></a> PostgreSQL and <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="20" height="20" alt="GoogleCloud" /></a> Google Cloud Platform.
@@ -20,8 +20,20 @@ In the future, I have a plan to develop myself such as creating mobile applicati
   <img src="https://img.shields.io/badge/Lives-Thailand-purple" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Thai-brown" />
 </p>
-
 <hr>
+
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+- 🌱 I am a `Junior` at [Faculty of Electrical Engineering](https://ee-eng.su.ac.th/) at [Silpakorn University](https://www.su.ac.th/).
+- 🔭 I’m currently working on `my mini projects`
+- 💬 Ask me about `Front-end`
+- :computer: I love using Software as a solution for every `Problem`.
+- :mortar_board: I’m  always `learning new things`.
+- :orange_book: This is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :boom: You can visit [MY WEBSITE](https://www.izephanthakarn.dev).
+- ⚡ Fun fact: I never thought I would become a web developer!
+
 
 ### Skills
 
