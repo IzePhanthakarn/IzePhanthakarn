@@ -90,7 +90,7 @@ In the future, I have a plan to develop myself such as creating mobile applicati
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 </p>
 
-### Connect with me:
+### <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> Connect with me:
 <p align="left">
 
 [![image](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ize.phanthakarn.5)
