@@ -7,7 +7,6 @@ I am currently studying at Silpakorn University and accepting a part-time job bu
 
 In the future, I have a plan to develop myself such as creating mobile applications, blockchain development, writing bots to reduce redundant work. And developing their own applications for convenience in everyday life, such as recording income and expenses Health tracking and private social media to use with close ones.
 
-
 ### Skills
 
 
