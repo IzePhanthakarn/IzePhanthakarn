@@ -116,8 +116,7 @@ In the future, I have a plan to develop myself such as creating :iphone: mobile 
 
 ### 🐍 Watch my contribution graph get eaten by the snake
 
-<!-- platane/snk works, it just puts it on a new branch -->
-<p align="center">![IzePhanthakarn snake gif](https://github.com/IzePhanthakarn/IzePhanthakarn/blob/output/github-contribution-grid-snake.svg)</p>
+<p align="center"><img align="center" alt="My Snake" src="https://github.com/IzePhanthakarn/IzePhanthakarn/blob/output/github-contribution-grid-snake.svg" /></p>
 
 <hr>
 
