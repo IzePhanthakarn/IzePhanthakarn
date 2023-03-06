@@ -9,15 +9,6 @@ I am currently studying at Silpakorn University and accepting a part-time job bu
 
 3+ years of experience as a software developer. Fast learner and eager to explore new technologies. Love developing beautiful and useful websites. Teamwork and Clean Code always question the status quo and want to improve.
 
-
-
-
-
-
-
-
-
-
 In the future, I have a plan to develop myself such as creating :iphone: mobile applications, ⛓️ blockchain development, writing 🤖 bots to reduce redundant work. And developing their own applications for convenience in everyday life, such as 💸 recording income and expenses, 🏥 Health tracking and 📧 private social media to use with close ones.
 
 > Technology advances every day. So I must never stop learning.
