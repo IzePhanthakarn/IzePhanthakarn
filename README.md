@@ -114,6 +114,8 @@ In the future, I have a plan to develop myself such as creating :iphone: mobile 
 </a>
 </p>
 
+##
+
 ### 🐍 Watch my contribution graph get eaten by the snake
 
 <p align="center"><img align="center" alt="My Snake" src="https://github.com/IzePhanthakarn/IzePhanthakarn/blob/output/github-contribution-grid-snake.svg" /></p>
