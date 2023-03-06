@@ -107,7 +107,7 @@ In the future, I have a plan to develop myself such as creating mobile applicati
 ### ⚙️ Github Stats
 
 <p align="center">
-<a href="https://github.com/IzePhanthakarn">
+<a href="https://github.com/IzePhanthakarn" target="_blank">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=izephanthakarn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=izephanthakarn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -116,5 +116,5 @@ In the future, I have a plan to develop myself such as creating mobile applicati
 <hr>
 
 <p align="right">
-<a href="https://www.buymeacoffee.com/izephanthakarn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/izephanthakarn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </p>
