@@ -97,7 +97,7 @@ In the future, I have a plan to develop myself such as creating mobile applicati
 
 [![image](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ize.phanthakarn.5)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/izeimize/)
-[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://www.instagram.com/izeimize/)
+[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/CKeMGhY3)
 [![image](https://img.shields.io/badge/Linkin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phanthakarn-khumphai-686299200/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izephanthakarn@gmail.com)
 </p>
