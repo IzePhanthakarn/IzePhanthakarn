@@ -17,7 +17,7 @@ In the future, I have a plan to develop myself such as creating :iphone: mobile 
   <a href="https://www.instagram.com/izeimize/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram"></a>
   <a href="https://github.com/IzePhanthakarn"><img src="https://img.shields.io/badge/Github--_.svg?style=social&logo=Github" alt="Github"></a>
 <img src="https://img.shields.io/badge/Age-22-crimson" />
-  <img src="https://img.shields.io/badge/Frontend-NuxtJS-brightgreen" />
+  <img src="https://img.shields.io/badge/Frontend-NuxtJS/React-brightgreen" />
   <img src="https://img.shields.io/badge/Backend-Golang-blue" />
   <img src="https://img.shields.io/badge/Lives-Thailand-purple" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Thai-brown" />
